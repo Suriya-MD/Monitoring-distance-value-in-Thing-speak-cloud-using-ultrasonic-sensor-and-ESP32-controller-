@@ -241,6 +241,7 @@ long microsecondsToCentimeters(long microseconds)
 ![WhatsApp Image 2025-11-12 at 10 12 28_395f92be](https://github.com/user-attachments/assets/4babe20a-ea09-4874-9110-c55e01de8e31)
 
 # OUTPUT:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f9064960-535b-4536-8344-7c4e7e6370a7" />
 
 
 # RESULT:
