@@ -1,4 +1,4 @@
-# Uploading ultrasonic sensor data in Thing Speak cloud
+# Exp-06 Uploading ultrasonic sensor data in Thing Speak cloud
 ### NAME: SURIYA M
 ### REG.NO : 212223110055
 
